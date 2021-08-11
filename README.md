@@ -9,7 +9,9 @@ The ordinals α in such class are all sets, ordered by the binary relationship "
 
 and defined with the recurrence relationship "α + 1 = α ∪ {α}" initiated with "0 = ∅".
 
-Therefore, finite recurrences define finite ordinals, aka natural numbers, as shown in "main.py" ("{" and "}" are replaced by "[" and "]", respectively),
+Therefore, finite recurrences define finite ordinals, aka natural numbers,
+
+as shown in "main.py" ("{" and "}" are replaced by "[" and "]", respectively),
 
 and it is found that all natural numbers equal the union of ordinals from 0 to themselves,
 
